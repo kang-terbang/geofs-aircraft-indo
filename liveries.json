@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Lion Air",
+    "color": "red",
+    "bgcolor": "white",
+    "aircrafts": {
+      "2871": {
+        "liveries": [
+          {
+            "name": "Lion Air B737-800",
+            "texture": [
+              "https://raw.githubusercontent.com/kang-terbang/geofs-aircraft-indo/refs/heads/main/lion_air.png"
+            ],
+            "credits": "kang-terbang"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Citilink",
+    "color": "green",
+    "bgcolor": "white",
+    "aircrafts": {
+      "2871": {
+        "liveries": [
+          {
+            "name": "Citilink A320neo KA-RJOK",
+            "texture": [
+              "https://raw.githubusercontent.com/kang-terbang/geofs-aircraft-indo/refs/heads/main/Citilink-A320.png"
+            ],
+            "credits": "kang-terbang"
+          }
+        ]
+      }
+    }
+  }
+]
