@@ -1,0 +1,18 @@
+{
+  "name": "Lion Air",
+  "color": "red",
+  "bgcolor": "white",
+  "aircrafts": {
+    "B737-800": {
+      "liveries": [
+        {
+          "name": "Lion Air 737-800",
+          "texture": [
+            "https://raw.githubusercontent.com/kang-terbang/geofs-aircraft/refs/heads/main/lion_air.png"
+          ],
+          "credits": "kang-terbang"
+        }
+      ]
+    }
+  }
+}
