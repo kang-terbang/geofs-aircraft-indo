@@ -3,12 +3,12 @@
   "color": "green",
   "bgcolor": "white",
   "aircrafts": {
-    "A320": {
+    "A320neo": {
       "liveries": [
         {
-          "name": "Citilink A320",
+          "name": "Citilink A320neo",
           "texture": [
-            "https://raw.githubusercontent.com/kang-terbang/geofs-aircraft-indo/refs/heads/main/citylink/citylink.png"
+            "https://raw.githubusercontent.com/kang-terbang/geofs-aircraft-indo/refs/heads/main/citilink/citilink.png"
           ],
           "credits": "kang-terbang"
         }
